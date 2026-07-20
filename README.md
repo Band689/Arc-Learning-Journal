@@ -24,7 +24,8 @@ As an active contributor and ecosystem builder (Architect / Contributor) of Arc,
 * [AI Agents Are Getting Wallets](./Arc-Data-Vault/AI-Agents-Wallets.md) — Insights on Circle's Earnings Call, Agent Stack & Nanopayments (关于 Circle 财报、Agent Stack 与纳米支付的深度思考)
 
 ### 📖 Mapping Arc's Ecosystem by the Numbers 用数据拆解 Arc 的生态版图---
-
+* [Mapping Arc's Ecosystem by the Numbers (用数据拆解 Arc 的生态版图)](./Arc-Data-Vault/Arc-Ecosystem-Numbers.md)
+* 
 ## 🇨🇳 中文简介
 
 作为 Arc 生态的共建者（Architect / Contributor），本仓库旨在通过**文档本地化**、**社区常见答疑整理**以及**产品体验反馈**，降低中文用户的准入门槛，助力 Arc 走向更广泛的受众。
