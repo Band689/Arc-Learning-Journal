@@ -20,7 +20,8 @@ As an active contributor and ecosystem builder (Architect / Contributor) of Arc,
 * [ ] **Docs & Translation**: Chinese localization of key official technical and ecosystem docs.
 * [ ] **FAQ & Guides**: Step-by-step onboarding guides for Chinese-speaking newcomers.
 * [ ] **Feedback & UX**: Gathering user feedback from the regional community to help improve Arc's user experience.
-
+### 📖 Featured Articles / 深度研报
+* [AI Agents Are Getting Wallets](./Arc-Data-Vault/AI-Agents-Wallets.md) — Insights on Circle's Earnings Call, Agent Stack & Nanopayments (关于 Circle 财报、Agent Stack 与纳米支付的深度思考)
 ---
 
 ## 🇨🇳 中文简介
