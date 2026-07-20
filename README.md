@@ -21,10 +21,10 @@ As an active contributor and ecosystem builder (Architect / Contributor) of Arc,
 * [ ] **FAQ & Guides**: Step-by-step onboarding guides for Chinese-speaking newcomers.
 * [ ] **Feedback & UX**: Gathering user feedback from the regional community to help improve Arc's user experience.
 ### 📖 Featured Articles / 深度研报
-* [AI Agents Are Getting Wallets](./Arc-Data-Vault/AI-Agents-Wallets.md) — Insights on Circle's Earnings Call, Agent Stack & Nanopayments (关于 Circle 财报、Agent Stack 与纳米支付的深度思考)
 
-### 📖 Mapping Arc's Ecosystem by the Numbers 用数据拆解 Arc 的生态版图---
-* [Mapping Arc's Ecosystem by the Numbers (用数据拆解 Arc 的生态版图)](./Arc-Data-Vault/Arc-Ecosystem-Numbers.md)
+* [AI Agents Are Getting Wallets](./Arc-Data-Vault/AI-Agents-Wallets.md) — Insights on Circle's Earnings Call, Agent Stack & Nanopayments (关于 Circle 财报、Agent Stack 与纳米支付的深度思考)
+* [Mapping Arc's Ecosystem by the Numbers](./Arc-Data-Vault/Arc-Ecosystem-Numbers.md) — 用数据拆解 Arc 的生态版图
+* [Arc in the Post-MiCA Era](./Arc-Data-Vault/Arc-Brief-Europe.md) — 欧洲 MiCA 时代下的 Arc 生态观察：合规框架、EURC 流动性与链上结算痛点
 * 
 ## 🇨🇳 中文简介
 
